@@ -1,2 +1,2 @@
 # LLM
-# Resarch analyst
+# Research Analyst
